@@ -1,4 +1,4 @@
-./app/code/community/Inchoo                                          ./app/code/community/Inchoo
+./app/code/community/Inchoo/AutoSubscribe                            ./app/code/community/Inchoo/AutoSubscribe
 ./app/design/frontend/base/default/template/inchoo/autosubscribe     ./app/design/frontend/base/default/template/inchoo/autosubscribe
 ./app/design/frontend/base/default/layout/inchoo_autosubscribe.xml   ./app/design/frontend/base/default/layout/inchoo_autosubscribe.xml
 ./app/etc/modules/Inchoo_AutoSubscribe.xml                           ./app/etc/modules/Inchoo_AutoSubscribe.xml
